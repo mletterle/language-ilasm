@@ -1,15 +1,15 @@
 {
-"name": "language-ilasm",
-"version": "0.0.0",
-"description": "Atom support for ILAsm",
-"repository": "https://github.com/mletterle/language-ilasm",
-"license": "MIT",
-"keywords": [
+  "name": "language-ilasm",
+  "version": "0.0.1",
+  "description": "Atom support for ILAsm",
+  "repository": "https://github.com/mletterle/language-ilasm",
+  "license": "MIT",
+  "keywords": [
     "language",
     "cil",
     "msil",
     "ilasm",
     ".net",
     "syntax"
-]
+  ]
 }
